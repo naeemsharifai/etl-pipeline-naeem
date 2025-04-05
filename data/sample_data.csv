@@ -1,0 +1,16 @@
+id,date,city,temperature_f,humidity,wind_speed_kmph,weather_description
+1,2025-03-21,Karachi,86.0,68,18,Sunny
+2,2025-03-22,Hyderabad,88.5,70,20,Partly Cloudy
+3,2025-03-23,Sukkur,94.1,35,28,Hot
+4,2025-03-24,Larkana,92.3,40,22,Hot and Dry
+5,2025-03-25,Mirpur Khas,87.8,55,16,Cloudy
+6,2025-03-26,Nawabshah,91.2,38,24,Sunny
+7,2025-03-27,Karachi,85.6,66,19,Hazy
+8,2025-03-28,Hyderabad,89.6,69,21,Sunny
+9,2025-03-29,Sukkur,95.0,33,27,Dry
+10,2025-03-30,Larkana,93.4,41,23,Hot
+11,2025-03-31,Mirpur Khas,88.2,58,17,Partly Cloudy
+12,2025-04-01,Nawabshah,90.5,36,25,Hazy
+13,2025-04-02,Karachi,84.7,67,18,Sunny
+14,2025-04-03,Hyderabad,87.4,72,20,Humid
+15,2025-04-04,Sukkur,96.1,34,29,Hot and Dry

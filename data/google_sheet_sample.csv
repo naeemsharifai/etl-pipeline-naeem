@@ -1,0 +1,16 @@
+date,city,temperature_c,humidity,aqi,pm2_5,pm10,air_quality_level
+2025-03-21,Karachi,30.0,68,92,35,75,Moderate
+2025-03-22,Hyderabad,31.4,70,105,45,85,Unhealthy for Sensitive Groups
+2025-03-23,Sukkur,34.5,35,110,50,90,Unhealthy for Sensitive Groups
+2025-03-24,Larkana,33.5,40,120,55,100,Unhealthy
+2025-03-25,Mirpur Khas,31.0,55,80,30,65,Moderate
+2025-03-26,Nawabshah,32.8,38,95,40,78,Moderate
+2025-03-27,Karachi,29.8,66,85,32,70,Moderate
+2025-03-28,Hyderabad,32.0,69,115,52,98,Unhealthy
+2025-03-29,Sukkur,35.0,33,130,60,105,Unhealthy
+2025-03-30,Larkana,34.1,41,122,58,102,Unhealthy
+2025-03-31,Mirpur Khas,31.2,58,88,33,72,Moderate
+2025-04-01,Nawabshah,32.5,36,100,42,80,Moderate
+2025-04-02,Karachi,29.3,67,78,28,60,Good
+2025-04-03,Hyderabad,30.8,72,108,48,92,Unhealthy for Sensitive Groups
+2025-04-04,Sukkur,35.6,34,135,65,110,Unhealthy

@@ -1,0 +1,122 @@
+[
+  {
+    "date": "2025-03-21",
+    "city": "Karachi",
+    "temperature_f": 86.0,
+    "humidity": 68,
+    "wind_speed_kmph": 18,
+    "precipitation_mm": 0.0
+  },
+  {
+    "date": "2025-03-22",
+    "city": "Hyderabad",
+    "temperature_f": 88.5,
+    "humidity": 70,
+    "wind_speed_kmph": 20,
+    "precipitation_mm": 1.2
+  },
+  {
+    "date": "2025-03-23",
+    "city": "Sukkur",
+    "temperature_f": 94.1,
+    "humidity": 35,
+    "wind_speed_kmph": 28,
+    "precipitation_mm": 0.0
+  },
+  {
+    "date": "2025-03-24",
+    "city": "Larkana",
+    "temperature_f": 92.3,
+    "humidity": 40,
+    "wind_speed_kmph": 22,
+    "precipitation_mm": 0.4
+  },
+  {
+    "date": "2025-03-25",
+    "city": "Mirpur Khas",
+    "temperature_f": 87.8,
+    "humidity": 55,
+    "wind_speed_kmph": 16,
+    "precipitation_mm": 2.0
+  },
+  {
+    "date": "2025-03-26",
+    "city": "Nawabshah",
+    "temperature_f": 91.2,
+    "humidity": 38,
+    "wind_speed_kmph": 24,
+    "precipitation_mm": 0.0
+  },
+  {
+    "date": "2025-03-27",
+    "city": "Karachi",
+    "temperature_f": 85.6,
+    "humidity": 66,
+    "wind_speed_kmph": 19,
+    "precipitation_mm": 0.5
+  },
+  {
+    "date": "2025-03-28",
+    "city": "Hyderabad",
+    "temperature_f": 89.6,
+    "humidity": 69,
+    "wind_speed_kmph": 21,
+    "precipitation_mm": 1.0
+  },
+  {
+    "date": "2025-03-29",
+    "city": "Sukkur",
+    "temperature_f": 95.0,
+    "humidity": 33,
+    "wind_speed_kmph": 27,
+    "precipitation_mm": 0.0
+  },
+  {
+    "date": "2025-03-30",
+    "city": "Larkana",
+    "temperature_f": 93.4,
+    "humidity": 41,
+    "wind_speed_kmph": 23,
+    "precipitation_mm": 0.3
+  },
+  {
+    "date": "2025-03-31",
+    "city": "Mirpur Khas",
+    "temperature_f": 88.2,
+    "humidity": 58,
+    "wind_speed_kmph": 17,
+    "precipitation_mm": 1.5
+  },
+  {
+    "date": "2025-04-01",
+    "city": "Nawabshah",
+    "temperature_f": 90.5,
+    "humidity": 36,
+    "wind_speed_kmph": 25,
+    "precipitation_mm": 0.0
+  },
+  {
+    "date": "2025-04-02",
+    "city": "Karachi",
+    "temperature_f": 84.7,
+    "humidity": 67,
+    "wind_speed_kmph": 18,
+    "precipitation_mm": 0.6
+  },
+  {
+    "date": "2025-04-03",
+    "city": "Hyderabad",
+    "temperature_f": 87.4,
+    "humidity": 72,
+    "wind_speed_kmph": 20,
+    "precipitation_mm": 0.9
+  },
+  {
+    "date": "2025-04-04",
+    "city": "Sukkur",
+    "temperature_f": 96.1,
+    "humidity": 34,
+    "wind_speed_kmph": 29,
+    "precipitation_mm": 0.0
+  }
+]
