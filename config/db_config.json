@@ -1,0 +1,5 @@
+{
+    "uri": "mongodb+srv://chandiopg4100914:t20zwobGVGXYpsMA@cluster0.jh6hhao.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "database": "etl_weather_db",
+    "collection": "weather_data"
+  }
